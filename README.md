@@ -1,2 +1,2 @@
 # epicollectr
-An R interface for EpiCollect survey data
+An R interface for Epicollect (https://five.epicollect.net/) survey data
